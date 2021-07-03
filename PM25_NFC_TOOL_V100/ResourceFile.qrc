@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/dialogprecheck/1.png</file>
+        <file>image/mainwindow/1.png</file>
+        <file>image/mainwindow/2.png</file>
+        <file>image/mainwindow/3.png</file>
+        <file>image/dialogcheck/1.png</file>
+        <file>image/dialogmanufacture/1.png</file>
+        <file>image/mainwindow/4.png</file>
+    </qresource>
+</RCC>
