@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 4.11.2, 2021-07-03T15:56:38. -->
+<!-- Written by QtCreator 4.11.2, 2021-07-03T16:29:23. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -285,8 +285,9 @@
     </valuelist>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/Users/liuzhijia/QT_Project/PM25_NFC_TOOL_V100/PM25_NFC_TOOL_V100.pro</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/Users/liuzhijia/QT_Project/PM25_NFC_TOOL_V100/PM25_NFC_TOOL_V100.pro</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">PM25_NFC_TOOL_V1002</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/Users/liuzhijia/CLong/PM25_NFC_TOOL_V1/PM25_NFC_TOOL_V100/PM25_NFC_TOOL_V100.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/Users/liuzhijia/CLong/PM25_NFC_TOOL_V1/PM25_NFC_TOOL_V100/PM25_NFC_TOOL_V100.pro</value>
     <value type="QString" key="RunConfiguration.Arguments"></value>
     <value type="bool" key="RunConfiguration.Arguments.multi">false</value>
     <value type="QString" key="RunConfiguration.OverrideDebuggerStartup"></value>

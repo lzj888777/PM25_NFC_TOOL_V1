@@ -72,7 +72,7 @@ void DialogLogin::on_pushButton_clicked()
     if(i == 1 && k == 1){
 
         this->hide();
-        emit toMainwindow("login success!");
+//        emit toMainwindow("login success!");
         emit signalDLshow("login success!");
 
 
@@ -90,6 +90,7 @@ void DialogLogin::on_pushButton_clicked()
 
 void DialogLogin::on_pushButton_2_clicked()
 {
+    this->show();
     this->close();
     qDebug()<<"close1"<<endl;
     emit signalDLclose("login close");

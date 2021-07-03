@@ -49,3 +49,6 @@ RESOURCES += \
     ResourceFile.qrc
 
 DISTFILES +=
+
+
+ ICON = myapp.icns
